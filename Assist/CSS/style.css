@@ -98,9 +98,9 @@ nav #menu ul li a{
 }
 
 
-/* @media(max-width: 665px){
+@media(max-width: 665px){
     .slider{
         background-color: rgba(255,255,255,0.15);
         backdrop-filter: blur(10px);
     }
-} */
+}
